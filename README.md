@@ -5,16 +5,14 @@ Have a look here: https://github.com/farbod-salimi/PHP-Grid
 
 
 ## Installation
-
-### On Linux.
-
 First, copy this repo into a public accessible folder on your server.
-
 Common techniques are : 
 
-1) downloading and extracting the .zip / .tgz by hand
+### One.
+downloading and extracting the .zip / .tgz by hand
 
-2) cloning the repo with git (into var/www)
+### Two.
+cloning the repo with git (into var/www)
 
 ```
 git clone https://github.com/farbod-salimi/PHP-Grid.git /var/www
