@@ -22,7 +22,7 @@ git clone https://github.com/farbod-salimi/PHP-Grid.git /var/www
 ###1. Edit the *config.php*
 change these lines
 ```php
-define("_HOST_NAME_", "localhost");
+define("_DB_HOST_", "localhost");
 define("_DB_USER_", "root");
 define("_DB_PASS_", "password");
 ```

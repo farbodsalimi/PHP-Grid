@@ -15,7 +15,7 @@
 		
 		function __construct($get_db_data){
 			$this->db_data = array_merge($this->db_data, $get_db_data);
-			$this->db = new \PHPGrid\Database\DB_Mysql(_DB_USER_, _DB_PASS_, _HOST_NAME_, $this->db_data['database']);
+			$this->db = new \PHPGrid\Database\DB_Mysql(_DB_USER_, _DB_PASS_, _DB_HOST_, $this->db_data['database']);
 			$this->table_head = "<thead><tr>";
 		}
 		
