@@ -26,10 +26,10 @@ define("_DB_USER_", "root");
 define("_DB_PASS_", "password");
 ```
 2. Create and fill a demo database
-Import SQL statement file from the PHP-Grid/_sql/php-grid.sql.
+, Import SQL statement file from the PHP-Grid/_sql/php-grid.sql.
 
 3. That's it
-Go to http://127.0.0.1 or http://localhost and have a look. 
+, Go to http://127.0.0.1 or http://localhost and have a look. 
 
 ## License
 
