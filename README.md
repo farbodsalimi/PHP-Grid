@@ -25,6 +25,7 @@ change these lines
 define("_DB_HOST_", "localhost");
 define("_DB_USER_", "root");
 define("_DB_PASS_", "password");
+define("_DB_CHAR_", "utf8");
 ```
 ###2. Create and fill a demo database
 Import SQL statement file from the PHP-Grid/_sql/php-grid.sql.
