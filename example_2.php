@@ -44,7 +44,7 @@ use PHPGrid\Grid as GridClass;
 	$grid2->set_fields($data_fields);
 
 	/**
-	* 	#--Setting our opthins
+	* 	#--Setting our option
 	*	$array_name = array(
 	*		'css-class' => 'CSS Class Name',
 	*		'id' => 'Identification Field Of Table', #--This is required for making links
